@@ -1,0 +1,22 @@
+{
+  "name": "scrape",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/faisalm8/scrape.git"
+  },
+  "keywords": [
+    "scrape"
+  ],
+  "author": "Faisal Mohamed",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/faisalm8/scrape/issues"
+  },
+  "homepage": "https://github.com/faisalm8/scrape#readme"
+}
